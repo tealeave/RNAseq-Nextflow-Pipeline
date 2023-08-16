@@ -1,0 +1,1 @@
+/dfs6/pub/ddlin/kaiser_lab/my_nextflow/R8_000_REP1_Aligned.toTranscriptome.out.bam
